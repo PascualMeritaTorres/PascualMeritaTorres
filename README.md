@@ -24,30 +24,25 @@
   </thead>
   <tbody>
     <tr>
-      <td><b><a href="https://www.unthinkable.co/">Software Engineer - Correcto - London,UK / Madrid, Spain</a> </b></td>
+      <td><b><a href="https://correcto.es/">Software Engineering Intern - Correcto - London,UK / Madrid, Spain</a> </b></td>
       <td>•Improved their AI-based word suggestion algorithm efficiency by 3%, using Python, by analyzing user behavior and optimizing the Machine Learning model API requests
+      
       •Developed a brand new webpage and chrome extension architecture to manage their exponential growth from 2,000 to 30,000 users</td>
       <td>June 2022 - August 2022</td>
     </tr>
   	<tr>
-      <td><b><a href="https://www.unthinkable.co/">Junior Associate Intern at Unthinkable Solution LLP</a> </b></td>
-      <td>Learning and practising of ASP.NET,C#</td>
-      <td>January 2021 - August 2021</td>
+      <td><b><a href="https://www.nunsys.com/">Machine Learning / Data Science Intern - Nunsys - Valencia, Spain</a> </b></td>
+      <td>•Doubled hospital staff allocation efficiency by training a “Random Forest” Machine Learning model to predict chronic patients timetables with an accuracy of 78%
+
+•Improved the understanding of over 8 million clinical records by performing data exploration, cleansing, transformation, and validation using Python</td>
+      <td>July 2021 - August 2021</td>
     </tr>
     <tr>
-      <td><b><a href="https://www.chegg.com/">Expert at Chegg</a> </b></td>
-      <td>Solving questions.</td>
-      <td>October 2020 - January 2021</td>
-    </tr>
-    <tr>
-      <td><b>Problem Setter(Procode)</b></td>
-      <td>Setting Problems ranging from easy to medium and hard levels</td>
-      <td>March 2020 - Aprail 2020</td>
-    </tr>
-     <tr>
-      <td><b><a href="https://www.atg.world/">Frontend Developer at ATG</a></b></td>
-      <td>working on frontend of website</td>
-      <td>July 2019 - August 2019</td>
+      <td><b><a href="https://ampere-energy.com/">Data Science Intern - Ampere Energy - Valencia, Spain</a> </b></td>
+      <td>•Increased revenues of over 400 families by applying matching algorithms to connect users with solar surplus energy and those with enough space in their batteries to store it, using Python
+      
+•Analyzed power consumption patterns of multiple devices using R and SQL</td>
+      <td>June 2019 - July 2019</td>
     </tr>
   </tbody>
 </table>
