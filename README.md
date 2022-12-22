@@ -58,23 +58,27 @@
       <th>Project Name</th>
       <th>Skills used</th>
       <th>Description</th>
+      <th>Private or Public Repo</th>
     </tr>
   </thead>
   <tbody>
     <tr>
     <tr>
-      <td><a href="https://keshavsingh4522.github.io/Projects/CodeEditor/">Using AI to solve Pacman</a></td>
+      <td>Using AI to solve Pacman</a></td>
       <td>Python</td>
       <td>Implement Value Iteration to play pacman more effectively</td>
+      <td>Private due to university policy</td>
     </tr>
       <td><a href='https://github.com/PascualMeritaTorres/Slurp-Users'>Slurp</a></td>
       <td>React-Native, JavaScript, HTML, CSS, Node-js, Firebase, Detox</td>
       <td>Co-founded an order-ahead and discovery platform for coffee enthusiasts</td>
+      <td>Public repository</td>
     </tr>
     <tr>
       <td><a href='https://boiling-springs-07869.herokuapp.com/'></a>Chess Club Management Website</td>
       <td>Python(Django), HTML, CSS</td>
       <td>Users can sign up to clubs, participate in tournaments and view published news</td>
+      <td>Private repository due to university policy</td>
     </tr>
   </tbody>
 </table>
