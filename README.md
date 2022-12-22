@@ -9,7 +9,7 @@
 - ⚡ I have an entrepeneurship mindset and always like to come up with new business ideas
 - 💬 Ask me about anything, I am happy to help
 - :bulb:I actively participate in **Hackathons** 
-- 🌐 Visit my <a href="https://www.linkedin.com/in/pascual-merita-torres-0098401ba/" target="_blank" rel="nofollow"><img align="right" alt="Pascual's Linkdedin" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a> for complete background and contact.
+- 🌐 Visit my <a href="https://www.linkedin.com/in/pascual-merita-torres-0098401ba/" target="_blank" rel="nofollow"><img  src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a> for complete background and contact.
 <!-- - ⚡ Languages: **Python3 | SQL | HTML | CSS |** -->
 
 <br />
