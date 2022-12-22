@@ -2,9 +2,6 @@
 <div align="center">
 <a href="https://www.linkedin.com/in/pascual-merita-torres-0098401ba/" target="_blank" rel="nofollow"><img align="right" alt="Pascual's Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a>
 </div>
-
-<img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left'>
-
 ### Hi  👋  !
 - :school: I'm [Pascual Merita](https://github.com/PascualMeritaTorres), and I am currently studying CS and AI at  <a href="https://www.kcl.ac.uk/">King's College London  </a>
 - 🔭 I’m currently working on my dissertation project on **Improving audio-filtering music recommendation systems using deep learning methodologies**
