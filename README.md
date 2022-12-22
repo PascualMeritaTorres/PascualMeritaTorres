@@ -58,7 +58,7 @@
       <th>Project Name</th>
       <th>Skills used</th>
       <th>Description</th>
-      <th>Private or Public Repo</th>
+      <th>Repository</th>
     </tr>
   </thead>
   <tbody>
@@ -67,7 +67,7 @@
       <td>Using AI to solve Pacman</a></td>
       <td>Python</td>
       <td>Implement Value Iteration to play pacman more effectively</td>
-      <td>Repository</td>
+      <td>Private due to university policy</td>
     </tr>
       <td><a href='https://github.com/PascualMeritaTorres/Slurp-Users'>Slurp</a></td>
       <td>React-Native, JavaScript, HTML, CSS, Node-js, Firebase, Detox</td>
