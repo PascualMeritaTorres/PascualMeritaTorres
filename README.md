@@ -26,9 +26,9 @@
     <tr>
       <td><b><a href="https://correcto.es/">Software Engineering Intern - Correcto - London,UK / Madrid, Spain</a> </b></td>
       <td>•Improved their AI-based word suggestion algorithm efficiency by 3%, using Python, by analyzing user behavior and optimizing the Machine Learning model API requests
-      
-      •Developed a brand new webpage and chrome extension architecture to manage their exponential growth from 2,000 to 30,000 users</td>
-      <td>June 2022 - August 2022</td>
+
+•Developed a brand new webpage and chrome extension architecture to manage their exponential growth from 2,000 to 30,000 users </td>
+      <td>June 2022 - August 2022 </td>
     </tr>
   	<tr>
       <td><b><a href="https://www.nunsys.com/">Machine Learning / Data Science Intern - Nunsys - Valencia, Spain</a> </b></td>
@@ -40,7 +40,7 @@
     <tr>
       <td><b><a href="https://ampere-energy.com/">Data Science Intern - Ampere Energy - Valencia, Spain</a> </b></td>
       <td>•Increased revenues of over 400 families by applying matching algorithms to connect users with solar surplus energy and those with enough space in their batteries to store it, using Python
-      
+
 •Analyzed power consumption patterns of multiple devices using R and SQL</td>
       <td>June 2019 - July 2019</td>
     </tr>
