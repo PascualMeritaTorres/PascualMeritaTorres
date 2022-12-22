@@ -24,9 +24,10 @@
   </thead>
   <tbody>
     <tr>
-      <td><b><a href="https://www.unthinkable.co/">Junior Associate - IT at Unthinkable Solution LLP</a> </b></td>
-      <td>.Net Core (AWS, Microservice(Azure)) Devloper</td>
-      <td>August 2021 - Present</td>
+      <td><b><a href="https://www.unthinkable.co/">Software Engineer - Correcto - London,UK / Madrid, Spain</a> </b></td>
+      <td>•Improved their AI-based word suggestion algorithm efficiency by 3%, using Python, by analyzing user behavior and optimizing the Machine Learning model API requests
+      •Developed a brand new webpage and chrome extension architecture to manage their exponential growth from 2,000 to 30,000 users</td>
+      <td>June 2022 - August 2022</td>
     </tr>
   	<tr>
       <td><b><a href="https://www.unthinkable.co/">Junior Associate Intern at Unthinkable Solution LLP</a> </b></td>
