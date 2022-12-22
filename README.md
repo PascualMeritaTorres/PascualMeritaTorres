@@ -8,12 +8,8 @@
 - 😄 I’m currently learning about,**Transformers and Convolutional Neural Networks**
 - ⚡ I have an entrepeneurship mindset and always like to come up with new business ideas
 - 💬 Ask me about anything, I am happy to help
-- :bulb:I actively participate in **Hackathons** 
+- :bulb: I actively participate in **Hackathons** 
 - 🌐 Visit my <a href="https://www.linkedin.com/in/pascual-merita-torres-0098401ba/" target="_blank" rel="nofollow">Linkedin</a> for complete background and contact.
-<!-- - ⚡ Languages: **Python3 | SQL | HTML | CSS |** -->
-
-<br />
-<br />
 
 <!-- start work experience section -->
 <details>
