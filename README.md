@@ -1,5 +1,4 @@
-# Pascual-Merita-Readme
-<div align='center'><h1> Pascual Merita Torres :pray:</h1></div>
+<div align='center'><h1> Pascual Merita Torres</h1></div>
 <div align="center">
 <a href="https://www.linkedin.com/in/pascual-merita-torres-0098401ba/" target="_blank" rel="nofollow"><img align="right" alt="Pascual's Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a>
 </div>
@@ -8,16 +7,12 @@
 
 ### Hi  👋  !
 - :school: I'm [Pascual Merita](https://github.com/PascualMeritaTorres), and I am currently studying CS and AI at  <a href="https://www.kcl.ac.uk/">King's College London  </a>
-- 🔭 I’m currently working on  **Backend Development**
-- :neutral_face: I have a **love/hate** relationship with **Programming**
-- 🌱 I’m currently Working with tech Microservice,**AWS,.Net Core**
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭
+- 🔭 I’m currently working on my dissertation project on **Improving audio-filtering music recommendation systems using deep learning methodologies**
+- 😄 I’m currently learning about,**Transformers and Convolutional Neural Networks**
+- ⚡ I have an entrepeneurship mindset and always like to come up with new business ideas
 - 💬 Ask me about anything, I am happy to help
-- 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
-- :bulb: Occasionaly I do participate in **Hackathons**
-- 👨 Know more about me at [Sourcerer](https://sourcerer.io/keshavsingh4522) 
-- 🌐 Visit my [porfolio website](https://keshavsingh4522.github.io/) for complete background and contact.
-- :boom: awesome octoprofile : [Keshav Singh](https://octoprofile.now.sh/user?id=keshavsingh4522)
+- :bulb:I actively participate in **Hackathons** 
+- 🌐 Visit my [Linkedin](https://www.linkedin.com/in/pascual-merita-torres-0098401ba/) for complete background and contact.
 <!-- - ⚡ Languages: **Python3 | SQL | HTML | CSS |** -->
 
 <br />
@@ -67,7 +62,7 @@
 
 <!-- start work project section -->
 <details>
-<summary><b> My Work Project :point_right:</b></summary>
+<summary><b> My Projects :point_right:</b></summary>
 <table>
   <thead>
     <tr>
@@ -117,100 +112,10 @@
 </details>
 <!-- end work project section -->
 
-<!-- start statics fun section -->
-<details>
-<summary><b> Some Statistics Fun </b></summary>
-<div align="center">
-<img src='https://github-readme-stats.vercel.app/api?username=keshavsingh4522&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=tokyonight&hide_langs_below=4' />
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=keshavsingh4522&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=keshavsingh4522&theme=dark)
-
-<img src="https://activity-graph.herokuapp.com/graph?username=keshavsingh4522&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
-
-</div>
-</details>
-<!-- end statics fun section -->
-
-
-<details> 
- <summary>🤖 <b>My programming stats</b>: </summary>
-<br>
-
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    118 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.32% 
-🌆 Daytime    214 commits    ████████░░░░░░░░░░░░░░░░░   33.23% 
-🌃 Evening    234 commits    █████████░░░░░░░░░░░░░░░░   36.34% 
-🌙 Night      78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.11%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       65 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.09% 
-Tuesday      94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.6% 
-Wednesday    75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.65% 
-Thursday     101 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.68% 
-Friday       82 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.73% 
-Saturday     107 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.61% 
-Sunday       120 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.63%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 34 mins             ████████████████████████░   97.77% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.23%
-
-```
-
-**I Mostly Code in Jupyter Notebook** 
-
-```text
-Jupyter Notebook         10 repos            █████████████████░░░░░░░░   71.43% 
-C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
-
-```
 
 
 
-<!--END_SECTION:waka-->
 
 </details>
 
 
-<!-- start dynamic spotify spngs API -->
-### i really like music :headphones:
-
-<!-- Nothing weird to see here -->
-<p align="center">currently jamming to</p>
-<p align="center">
-  <a href="https://spotify-now-playing-song.vercel.app/api/now-playing?open">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://spotify-now-playing-song.vercel.app/api/now-playing">
-  </a>
-</p>
-
-<p align="center">
-  <!-- He came up with the idea of HOW to show React components as an img on a README.md and the now playing component! -->
-  <i>inspired by <a href="https://github.com/natemoo-re">natemoo-re</a> for song api</i>
-</p>
-<!-- end dynamic spotify spngs API -->
-
-<!-- start footer section -->
-
-****
-
-<!--
-[![Profile views](http://hits.dwyl.com/keshavsingh4522/keshavsingh4522.svg)](http://hits.dwyl.com/keshavsingh4522/keshavsingh4522) 
--->
