@@ -1,6 +1,4 @@
-<div align='center'><h1> Pascual Merita Torres</h1></div>
-<div align="center">
-</div>
+
 
 ### Hi  👋  !
 - :school: I'm [Pascual Merita](https://github.com/PascualMeritaTorres), and I am currently studying CS and AI at  <a href="https://www.kcl.ac.uk/">King's College London  </a>
