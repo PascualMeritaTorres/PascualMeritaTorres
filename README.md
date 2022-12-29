@@ -1,5 +1,5 @@
 
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 ### Hi  👋  !
 - :school: I'm [Pascual Merita](https://github.com/PascualMeritaTorres), and I am currently studying CS and AI at  <a href="https://www.kcl.ac.uk/">King's College London  </a>
 - 🔭 I’m currently working on my dissertation project on **Improving audio-filtering music recommendation systems using deep learning methodologies**
@@ -8,7 +8,8 @@
 - 💬 Ask me about anything, I am happy to help
 - :bulb: I actively participate in **Hackathons** 
 - 🌐 Visit my <a href="https://www.linkedin.com/in/pascual-merita-torres-0098401ba/" target="_blank" rel="nofollow">Linkedin</a> for complete background and contact.
-
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="pascual-merita-torres-0098401ba" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/pascual-merita-torres-0098401ba?trk=profile-badge">Pascual Merita Torres</a></div>
+              
 <!-- start work experience section -->
 <details>
 <summary><b> My Work Experience :point_right: </b></summary>
