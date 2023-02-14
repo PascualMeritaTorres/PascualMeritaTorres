@@ -1,6 +1,6 @@
 
 ### Hi  👋  !
-- :school: I'm [Pascual Merita](https://github.com/PascualMeritaTorres), and I am currently studying CS and AI at  <a href="https://www.kcl.ac.uk/">King's College London  </a>
+- :school: I'm [Pascual Merita](https://github.com/PascualMeritaTorres), and I am currently studying Computer Science with Artificial Intelligence at  <a href="https://www.kcl.ac.uk/">King's College London  </a>
 - 🔭 I’m currently working on my dissertation project on **Improving audio-filtering music recommendation systems using deep learning methodologies**
 - 😄 I’m currently learning about,**Transformers and Convolutional Neural Networks**
 - ⚡ I have an entrepeneurship mindset and always like to come up with new business ideas
