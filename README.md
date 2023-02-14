@@ -6,7 +6,7 @@
 - ⚡ I have an entrepeneurship mindset and constantly come up with new business ideas
 - 💬 Ask me about anything, I am happy to help
 - :bulb: I actively participate in **Hackathons** 
-- 🌐 Visit my <a href="https://www.linkedin.com/in/pascual-merita-torres-0098401ba/" target="_blank" rel="nofollow">Linkedin</a> for complete background and contact.
+- 🌐 Visit my <a href="https://www.linkedin.com/in/pascual-merita-torres-0098401ba/" target="_blank" rel="nofollow">Linkedin</a> for complete background and contact information
               
 <!-- start work experience section -->
 <details>
