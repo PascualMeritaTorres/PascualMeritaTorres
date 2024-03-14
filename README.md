@@ -1,9 +1,8 @@
 
 ### Hi  👋  !
 - :school: I'm [Pascual Merita](https://github.com/PascualMeritaTorres), and I am currently studying a Master's in Artificial Intelligence at  <a href="https://www.ed.ac.uk/studying/postgraduate/degrees?id=107&r=site/view">The University of Edinburgh</a>
-- 🔭 I’m currently working on my dissertation project on **Improving audio-filtering music recommendation systems using deep learning methodologies**
-- 😄 I’m currently learning about,**Transformers and Convolutional Neural Networks**
-- 💬 Ask me about anything, I am happy to help
+- 🔭 I’m currently working on my Master dissertation project on **Multimodal Dynamic Token Pooling in Transformers**
+- - 🔭 My Undergraduate dissertation project on **Improving audio-filtering music recommendation systems using deep learning methodologies**
 - :bulb: I actively participate in **Hackathons** 
 - 🌐 Visit my <a href="https://www.linkedin.com/in/pascual-merita-torres-0098401ba/" target="_blank" rel="nofollow">Linkedin</a> for complete background and contact information
               
