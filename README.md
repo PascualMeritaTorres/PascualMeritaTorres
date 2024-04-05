@@ -1,6 +1,6 @@
 ### Hi there 👋!
 
-- I'm [Pascual Merita](https://github.com/PascualMeritaTorres), currently pursuing a Master's in Artificial Intelligence at [The University of Edinburgh](https://www.ed.ac.uk/studying/postgraduate/degrees?id=107&r=site/view).
+- I'm Pascual Merita, currently pursuing a Master's in Artificial Intelligence at [The University of Edinburgh](https://www.ed.ac.uk/studying/postgraduate/degrees?id=107&r=site/view).
 
 **Multimodal Dynamic Token Pooling in Transformers**
 - Transformers are widely used in the AI space, but training them requires significant time and resources. Research in the text domain demonstrates that dynamic token pooling can increase training speeds by up to fivefold and significantly improve performance. My investigation extends this concept to other modalities, such as audio and vision, with the potential for even greater training speed gains – exceeding 10x.
