@@ -1,89 +1,22 @@
+### Hi there 👋!
 
-### Hi  👋  !
-- :school: I'm [Pascual Merita](https://github.com/PascualMeritaTorres), and I am currently studying a Master's in Artificial Intelligence at  <a href="https://www.ed.ac.uk/studying/postgraduate/degrees?id=107&r=site/view">The University of Edinburgh</a>
-- 🔭 I’m currently working on my Master dissertation project on **Multimodal Dynamic Token Pooling in Transformers**
-- - 🔭 My Undergraduate dissertation project on **Improving audio-filtering music recommendation systems using deep learning methodologies**
-- :bulb: I actively participate in **Hackathons** 
-- 🌐 Visit my <a href="https://www.linkedin.com/in/pascual-merita-torres-0098401ba/" target="_blank" rel="nofollow">Linkedin</a> for complete background and contact information
-              
-<!-- start work experience section -->
-<details>
-<summary><b> My Work Experience :point_right: </b></summary>
-<table>
-  <thead>
-    <tr>
-      <th>Job Name</th>
-      <th>Roles & responsibilities</th>
-      <th>Duration</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b><a href="https://correcto.es/">Software Engineering Intern - Correcto - London,UK / Madrid, Spain</a> </b></td>
-      <td>•Improved their AI-based word suggestion algorithm efficiency by 3%, using Python, by analyzing user behavior and optimizing the Machine Learning model API requests
+- I'm [Pascual Merita](https://github.com/PascualMeritaTorres), currently pursuing a Master's in Artificial Intelligence at [The University of Edinburgh](https://www.ed.ac.uk/studying/postgraduate/degrees?id=107&r=site/view).
 
-•Developed a brand new webpage and chrome extension architecture to manage their exponential growth from 2,000 to 30,000 users </td>
-      <td>June 2022 - August 2022 </td>
-    </tr>
-  	<tr>
-      <td><b><a href="https://www.nunsys.com/">Machine Learning / Data Science Intern - Nunsys - Valencia, Spain</a> </b></td>
-      <td>•Doubled hospital staff allocation efficiency by training a “Random Forest” Machine Learning model to predict chronic patients timetables with an accuracy of 78%
+**Multimodal Dynamic Token Pooling in Transformers**
+- Transformers are widely used in the AI space, but training them requires significant time and resources. Research in the text domain demonstrates that dynamic token pooling can increase training speeds by up to fivefold and significantly improve performance. My investigation extends this concept to other modalities, such as audio and vision, with the potential for even greater training speed gains – exceeding 10x.
 
-•Improved the understanding of over 8 million clinical records by performing data exploration, cleansing, transformation, and validation using Python</td>
-      <td>July 2021 - August 2021</td>
-    </tr>
-    <tr>
-      <td><b><a href="https://ampere-energy.com/">Data Science Intern - Ampere Energy - Valencia, Spain</a> </b></td>
-      <td>•Increased revenues of over 400 families by applying matching algorithms to connect users with solar surplus energy and those with enough space in their batteries to store it, using Python
+**LLM Probing as a Method for Hallucination Detection**
+- LLMs offer immense potential, but their tendency to ‘hallucinate’ misleading information poses serious risks, particularly in the medical field. Our research addresses this by training ML models (called probes) on LLM’s latent activations to detect hallucinations. Our findings show that this approach generalizes well to more difficult datasets, paving the way for more reliable AI in the future.
 
-•Analyzed power consumption patterns of multiple devices using R and SQL</td>
-      <td>June 2019 - July 2019</td>
-    </tr>
-  </tbody>
-</table>
-</details>
-<!-- end work experience section -->
+**Siamese Song2Vec**
+- Major music streaming platforms employ advanced recommendation systems that carefully balance diversity and similarity to provide personalized song recommendations. However, DJs and music producers exhibit unique needs, requiring similarity-based recommendations. My study leverages the distributional hypothesis (coming from NLP) to generate unsupervised, similary-based song embeddings form playlists. We do so by employing Siamese Neural Network using Triplet Loss on song's Mel Spectograms.
 
-<!-- start work project section -->
-<details>
-<summary><b> My Projects :point_right:</b></summary>
-<table>
-  <thead>
-    <tr>
-      <th>Project Name</th>
-      <th>Skills used</th>
-      <th>Description</th>
-      <th>Repository</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-    <tr>
-      <td>Using AI to solve Pacman</a></td>
-      <td>Python</td>
-      <td>Implement Value Iteration to play pacman more effectively</td>
-      <td>Private due to university policy</td>
-    </tr>
-      <td><a href='https://github.com/PascualMeritaTorres/Slurp-Users'>Slurp</a></td>
-      <td>React-Native, JavaScript, HTML, CSS, Node-js, Firebase, Detox</td>
-      <td>Co-founded an order-ahead and discovery platform for coffee enthusiasts</td>
-      <td>Public repository</td>
-    </tr>
-    <tr>
-      <td><a href='https://boiling-springs-07869.herokuapp.com/'></a>Chess Club Management Website</td>
-      <td>Python(Django), HTML, CSS</td>
-      <td>Users can sign up to clubs, participate in tournaments and view published news</td>
-      <td>Private repository due to university policy</td>
-    </tr>
-  </tbody>
-</table>
-</details>
-<!-- end work project section -->
+**Improving audio-filtering music recommendation systems using deep learning methodologies**
+- I tackle the same problem explained in the bullet point above but now from a different angle. My approach consists of the following two steps: First, upon receiving a user-inputted audio file, tags, such as instruments and genres, are extracted using a Convolutional Recurrent Neural Network. Songs that lack these tags are excluded from the pool of potential recommendations. Second, the audio file is processed through a Short-Chunk Convolutional Neural Network with Residual Connections. Medium-level features, including liveness and tempo, are extracted, and a similarity metric is employed to compare these features with the subset of songs from the first step. The result is a curated selection of similar songs
 
 
+- 🌐 Interested in my work? Let's connect on [LinkedIn](https://www.linkedin.com/in/pascual-merita-torres-0098401ba/).
 
 
-
-</details>
 
 
