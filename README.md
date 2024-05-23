@@ -8,8 +8,8 @@ I'm **Pascual Merita**, currently pursuing a Master's in Artificial Intelligence
 <summary><strong>Project Highlights</strong></summary>
 <br>
 
-> #### **Multimodal Dynamic Token Pooling in Transformers (2024 - Private Repository)**
-> - *Transformers* are widely used in the AI space, but training them requires significant time and resources. Research in the text domain demonstrates that *dynamic token pooling* can increase training speeds by  up to fivefold and significantly improve performance. My investigation extends this concept to other modalities, such as audio and vision, with the potential for even greater training speed gains – exceeding 10x.
+> #### **AMP: Adaptive Merging and Pruning in Vision Transformers (2024 - Private Repository)**
+> - *Transformers have revolutionized fields like natural language processing and computer vision due to their scalability and effectiveness in utilizing GPUs for large datasets. However, their utility is hampered by a quadratic computational complexity with respect to sequence length, posing significant challenges in high resolution image processing. While recent strategies have attempted to address this by pruning or merging sequence tokens progressively, these methods rely on fixed per-layer ratios that do not adjust to the specifics of the processed image. Our proposed method circumvents the need for such predetermined hyperparameters by enabling the network to autonomously determine optimal ratios tailored to each input. This adaptability is facilitated through a multi-layer perceptron that generates a differentiable mask, simulating the pruning process. Additionally, cross-attention between the masked and original sequences simulates merging. Although our approach does not enhance training efficiency, it significantly boosts inference speed in image classification tasks.
 
 > ---
 
@@ -29,5 +29,3 @@ I'm **Pascual Merita**, currently pursuing a Master's in Artificial Intelligence
 </details>
 
 ---
-
-🌐 **Interested in my work? Let's connect on [LinkedIn](https://www.linkedin.com/in/pascual-merita-torres-0098401ba/).**
